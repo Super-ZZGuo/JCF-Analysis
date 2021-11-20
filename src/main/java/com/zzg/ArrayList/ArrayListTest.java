@@ -2,7 +2,7 @@ package com.zzg.ArrayList;/*
 @date 2021/11/18 - 4:04 下午
 */
 
-import com.zzg.LinkedList.LinkedList;
+
 import org.junit.Test;
 
 import java.util.ArrayList;

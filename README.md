@@ -20,6 +20,8 @@ http://superzzguo.com/2021/11/20/Collections-LinkedList/#more
 [ArrayDeque](https://github.com/Super-ZZGuo/JCF-analysis/blob/master/note/ArrayDeque/ArrayDeque.md) OR 🔗博客链接：
 http://superzzguo.com/2021/11/21/Collections-ArrayDeque/#more 
 
-[HashMap](https://github.com/Super-ZZGuo/JCF-analysis/blob/master/note/HashMap/HashMap.md) OR 🔗博客链接： 
+[HashMap](https://github.com/Super-ZZGuo/JCF-analysis/blob/master/note/HashMap/HashMap.md) OR 🔗博客链接： (博客炸了，凑合看github的吧)
+
+[LinkedHashMap](https://github.com/Super-ZZGuo/JCF-analysis/blob/master/note/LinkedHashMap/LinkedHashMap.md) OR 🔗博客链接： (博客炸了，凑合看github的吧)
 
 

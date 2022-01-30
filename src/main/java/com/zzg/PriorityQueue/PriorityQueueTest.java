@@ -4,9 +4,11 @@ package com.zzg.PriorityQueue;/*
 
 import org.junit.Test;
 
+import java.util.PriorityQueue;
+
 public class PriorityQueueTest {
     public static void main(String[] args) {
-
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
     }
 
     @Test

@@ -1,3 +1,5 @@
+> 最新的内容已经转移到 [Note](https://github.com/Super-ZZGuo/Note) 仓库, 欢迎来耍！
+
 # JCF-analysis
 A Java-Collection-Framework(JCF) source code reading note(ing...)
 
